@@ -1,2 +1,2 @@
 # typescript-misc
-Assortment of rules i use for typescript
+This repository contains an assortment of rules I use for diffrent typescript projects.
